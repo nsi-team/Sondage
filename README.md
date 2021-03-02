@@ -37,7 +37,7 @@
 	
   <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
 <p> </p>
-    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
+    <a href="https://nsi-team.github.io/About_us/">About us</a>
     <p></p>
     <a href="https://maevebestdev.github.io/Help/">Help</a>
     <p></p>
