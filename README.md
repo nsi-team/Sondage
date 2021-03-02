@@ -18,11 +18,6 @@
   <p>Un peu de tout <input type="checkbox"/></p>
   <p>Autre : <input type="text"/></p>
   
-   <p><strong>Notre site est il bien ?</strong></p>
-  <p>Oui <input type="checkbox"/></p>
-  <p>Non <input type="checkbox"/></p>
-  <p>Moyen <input type="checkbox"/></p>
-  
    <p><strong>le site est il facile d'utilisation ?</strong></p>
   <p>Oui <input type="checkbox"/></p>
   <p>Non <input type="checkbox"/></p>
