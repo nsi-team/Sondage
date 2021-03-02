@@ -39,7 +39,7 @@
 <p> </p>
     <a href="https://nsi-team.github.io/About_us/">About us</a>
     <p></p>
-    <a href="https://maevebestdev.github.io/Help/">Help</a>
+    <a href="https://nsi-team.github.io/Help/">Help</a>
     <p></p>
     <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
 
