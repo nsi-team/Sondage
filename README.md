@@ -28,6 +28,10 @@
   <p>Non <input type="checkbox"/></p>
   <p>Moyen <input type="checkbox"/></p>
   
+   <p><strong>tous les lien marche ?</strong></p>
+  <p>Oui <input type="checkbox"/></p>
+  <p>Non <input type="checkbox"/></p>
+  
    <p><strong>Notre site est il améliorable ?</strong></p>
   <p>Oui <input type="checkbox"/></p>
   <p>Non <input type="checkbox"/></p>
