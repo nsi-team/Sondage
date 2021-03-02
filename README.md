@@ -2,7 +2,7 @@
 <html lang="fr">
 	<head>
 		<meta charset="utf-8">
-		<title>Voici on site</title>
+		<title>Voici mon site</title>
 	</head>
 	<body>
   <p><strong>Pourquoi être venu sur notre site ?</strong></p>
@@ -12,7 +12,7 @@
   <p>Plus ou moins obliger... <input type="checkbox"/></p>
   <p>Autre : <input type="text"/></p>
 			
-  <p><strong>Quel type de GIF cherchez vous le plus souvent ?</strong></p>
+  <p><strong>Quel type de GIF cherche vous le plus souvent ?</strong></p>
   <p>Des GIF mignon <input type="checkbox"/></p>
   <p>Des GIF d'anime <input type="checkbox"/></p>
   <p>Un peu de tout <input type="checkbox"/></p>
