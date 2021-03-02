@@ -23,7 +23,7 @@
   <p>Non <input type="checkbox"/></p>
   <p>Moyen <input type="checkbox"/></p>
   
-   <p><strong>tous les lien marche ?</strong></p>
+   <p><strong>tous les liens marchent ?</strong></p>
   <p>Oui <input type="checkbox"/></p>
   <p>Non <input type="checkbox"/></p>
   
