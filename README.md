@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nsi-team/Sondage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Voici mon site</title>
+	</head>
+	<body>
+  <p><strong>Pourquoi être venu sur notre site ?</strong></p>
+  <p>Il est sympa <input type="checkbox"/></p>
+  <p>Une connaissance m'en a parler <input type="checkbox"/></p>
+  <p>Par hasard <input type="checkbox"/></p>
+  <p>Plus ou moins obliger... <input type="checkbox"/></p>
+  <p>Autre : <input type="text"/></p>
+			
+  <p><strong>Quel type de GIF cherchez vous le plus souvent ?</strong></p>
+  <p>Des GIF mignon <input type="checkbox"/></p>
+  <p>Des GIF d'anime <input type="checkbox"/></p>
+  <p>Un peu de tout <input type="checkbox"/></p>
+  <p>Autre : <input type="text"/></p>
+  
+   <p><strong>Notre site est il bien ?</strong></p>
+  <p>Oui <input type="checkbox"/></p>
+  <p>Non <input type="checkbox"/></p>
+  <p>Moyen <input type="checkbox"/></p>
+  
+   <p><strong>le site est il facile d'utilisation ?</strong></p>
+  <p>Oui <input type="checkbox"/></p>
+  <p>Non <input type="checkbox"/></p>
+  <p>Moyen <input type="checkbox"/></p>
+  
+   <p><strong>Notre site est il améliorable ?</strong></p>
+  <p>Oui <input type="checkbox"/></p>
+  <p>Non <input type="checkbox"/></p>
+  <p>Pour être plus précis : <input type="text"/></p>
+  <p></p>
+   <button><a href="https://maevebestdev.github.io/Envoyer/">Fini !
+	
+  <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil</a></button>
+<p> </p>
+    <a href="https://maevebestdev.github.io/About_Us/">About us</a>
+    <p></p>
+    <a href="https://maevebestdev.github.io/Help/">Help</a>
+    <p></p>
+    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsi-team/Sondage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
