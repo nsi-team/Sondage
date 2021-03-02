@@ -2,7 +2,7 @@
 <html lang="fr">
 	<head>
 		<meta charset="utf-8">
-		<title>Voici mon site</title>
+		<title>Voici on site</title>
 	</head>
 	<body>
   <p><strong>Pourquoi être venu sur notre site ?</strong></p>
