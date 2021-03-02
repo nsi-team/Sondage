@@ -33,7 +33,7 @@
   <p>Non <input type="checkbox"/></p>
   <p>Pour être plus précis : <input type="text"/></p>
   <p></p>
-   <button><a href="https://maevebestdev.github.io/Envoyer/">Fini !
+   <button><a href="https://nsi-team.github.io/Envoyer/">Fini !
 	
   <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil</a></button>
 <p> </p>
@@ -41,6 +41,6 @@
     <p></p>
     <a href="https://nsi-team.github.io/Help/">Help</a>
     <p></p>
-    <a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>
+    <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
 
 
