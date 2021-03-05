@@ -5,6 +5,11 @@
 		<title>Voici on site</title>
 	</head>
 	<body>
+<form>
+<input type="text" id="input" name="input" value="">
+<input type="button" id="bouton" value="Rechercher" onclick="controle()">
+</form>
+
   <p><strong>Pourquoi être venu sur notre site ?</strong></p>
   <p>Il est sympa <input type="checkbox"/></p>
   <p>Une connaissance m'en a parler <input type="checkbox"/></p>
