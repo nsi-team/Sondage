@@ -46,5 +46,5 @@
     <a href="https://nsi-team.github.io/Help/">Help</a>
     <p></p>
     <a href="https://nsi-team.github.io/Contact_Us/">Contact us</a>
-
+<script src="script.js"></script>
 
