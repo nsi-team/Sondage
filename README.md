@@ -6,7 +6,7 @@
 	</head>
 	<body>
 <form>
-<input type="text" id="input" name="input" value="">
+<input type="text" id="input" name="input" placeholder="Rechercher sur le site…">
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
 
